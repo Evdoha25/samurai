@@ -1,0 +1,13 @@
+.navig {
+    grid-area: navigation;
+    background-color:lightcoral;
+    height: 100vh;
+}
+
+.nav_item a {
+    color: aliceblue;
+}
+
+.nav_item a.active {
+    color: goldenrod;
+}
